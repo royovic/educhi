@@ -4,6 +4,20 @@ Submission "Hands-on Pedagogical Activities to Onboard Design Students in the Us
 
 Use the Instructions file to setup your software and hardware for the Workshop. It's recommended to have students install this before the workshop starts. 
 
+# Materials
+
+- Wemos D1 mini (v3)
+- Wemos Battery Shield
+- 200mAh LiPo battery
+- micro-USB cable
+- mini-breadboard
+- set of jumperwires
+- LDR sensors: GL55XX series 
+- Pressure sensors: Taiwan Alpha MF01-N-221-A01
+- Temperature Sensors: DHT11
+- Accelerometers: ADXL345 
+- Assortment of resistors, wiring, LED's, buttons, etc.  
+
 # Reading Sensors
 
 For Code Examples, we recommend the following examples as boilerplate code:
