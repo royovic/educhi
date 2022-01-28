@@ -47,5 +47,22 @@ Students often run into trouble with installing libraries and uploading code. Ch
 5. If it isn't connecting to Wifi, check whether the device (MAC) is allowed on the network in case of school-network
 6. If it is stuck connecting to Wifi, check whether the esp8266 library (3.0.0) isn't interfering with other libraries. If not sure, downgrade to earlier version.
 
+# Data Foundry
+If you want to use Data Foundry as a data-storage platform, these are the instructions for setting it up:
+
+Go to https://data.id.tue.nl/
+Make an account and fill in the required info.
+Make a new project and fill in the required info.
+Add an IOT Dataset
+Go to the IOT Dataset and enter the OOCSI Channel name in OOCSI Stream
+Go the Manage Resources
+Add a Device and fill in the info. Use the Device ID in your sketch if required (depends on OOCSI library version).
+Check out the data coming in by opening the IOT dataset
+
+Optional: Use the Data Foundry Data Visualisation option (here: https://data.id.tue.nl/tools/rawgraphs)
+
+
+
+
 
 
